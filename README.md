@@ -14,7 +14,7 @@
 
 Используемые модели:
 * Для суммаризации Gigachat.
-* Для оценки сентимента https://huggingface.co/cardiffnlp/twitter-roberta-base-sentiment-latest (https://huggingface.co/mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis).
+* Для оценки сентимента DistilRoberta-financial-sentiment (https://huggingface.co/mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis).
 * Для составления таблицы лидеров bert-base-multilingual-uncased-sentiment (https://huggingface.co/nlptown/bert-base-multilingual-uncased-sentiment).
 
 Дообучение моделей не производилось.
