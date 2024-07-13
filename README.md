@@ -12,25 +12,26 @@
 
 ЯП - Python 3.11.5.
 
-Используемые модели:
+## Используемые модели:
 * Для суммаризации Gigachat.
 * Для оценки сентимента DistilRoberta-financial-sentiment (https://huggingface.co/mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis).
 * Для составления таблицы лидеров bert-base-multilingual-uncased-sentiment (https://huggingface.co/nlptown/bert-base-multilingual-uncased-sentiment).
 
 Дообучение моделей не производилось.
 
-|Используемые библиотеки| 
-|-------------------------|
-|APScheduler==3.10.4|
-|regex==2023.12.25|
-|requests==2.31.0|
-|scipy==1.12.0|
-|sympy==1.12|
-|tensorboard==2.12.3|
-|tensorflow-intel==2.12.0|
-|tokenizers==0.15.2|
-|torch==2.1.0+cpu|
-|transformers==4.38.2|
+## Используемые библиотеки
+|Lib|Version|
+|---|-------|
+|APScheduler|3.10.4|
+|regex|2023.12.25|
+|requests|2.31.0|
+|scipy|1.12.0|
+|sympy|1.12|
+|tensorboard|2.12.3|
+|tensorflow-intel|2.12.0|
+|tokenizers|0.15.2|
+|torch|2.1.0+cpu|
+|transformers|4.38.2|
 
 |Для работы требуется|
 |--------------------|
